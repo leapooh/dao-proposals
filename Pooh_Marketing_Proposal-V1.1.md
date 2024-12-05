@@ -27,7 +27,7 @@ While social media posts on X (formerly known as Twitter) have fostered communit
   - Dexscreener: $7,000 (50% of the advertising budget).
 
 ### Wallet Address for Fund Allocation:
-- **Wallet:** (PENDING).
+- **Wallet:** 0x52Cf9B141C55987Bb53375a9B72521d4D4AB1537
 - Funds allocated for the advertising budget will be sent in ETH to this wallet, which will handle payments for both Dextools and Dexscreener campaigns.
   - **Note:** All transactions will be trackable on the Ethereum blockchain to ensure transparency.
 
