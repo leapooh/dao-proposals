@@ -60,7 +60,6 @@ While social media posts on X (formerly known as Twitter) have fostered communit
 
 ### Monitoring and Adjustment:
 - Continuous monitoring of campaign performance through views, clicks, and trading volume.
-- Weekly review meetings to assess progress and make necessary adjustments to the strategy.
 
 ## Summary:
 This proposal allocates $14,000 from the $50,000 total funds for a strategic marketing effort on Dextools and Dexscreener. The campaign is designed to significantly increase visibility, trader engagement, and market strength for $POOH, leveraging the platforms where potential investors are actively looking for investment opportunities. This initial investment represents 28% of the available funds, aiming to kickstart growth with the possibility of scaling marketing efforts based on the campaign's success.
