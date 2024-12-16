@@ -35,6 +35,7 @@
 - **Wallet:** 0x4dF9F49c16ADc81C39507b9027Ef1BD26ffa8d0C
   **Delegate:** Yes
   **Voting Power:** 25.60B
+  
 **Total Votes:** 14.91T
 
 ### Wallets that delegated on or after December 9, 2024, at 09:17 AM (Votes not counted):
@@ -56,6 +57,7 @@
 - **Wallet:** 0xA3738f88B23B63cb7ED9fceA00e4630408E8112a
   **Delegate:** Yes
   **Voting Power:** 724.75B
+  
 **Total Votes:** 7.52T
 
 ### Wallets that have not delegated:
@@ -68,6 +70,7 @@
 - **Wallet:** 0xEB0c53c261c815610BA1AA3600Ad09551e63c1E2
   **Delegate:** None
   **Voting Power:** 50.56B
+  
 **Total Votes:** 114.27B
 
 In the next proposal, if the same wallets vote and the pending ones delegate, we will get **22.54T votes**.
